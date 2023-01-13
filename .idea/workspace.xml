@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e96d62ab-7b07-41ad-848e-1735a822fabf" name="Changes" comment="mostra os ganhos anuais dos dois funcionários">
+    <list default="true" id="e96d62ab-7b07-41ad-848e-1735a822fabf" name="Changes" comment="aumenta em 10% os salários dos dois empregados">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Empregado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673650216776</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="aumenta em 10% os salários dos dois empregados">
+      <created>1673650765441</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673650765441</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +102,7 @@
     <MESSAGE value="cria métodos get e set do salarioMensal" />
     <MESSAGE value="Cria objetos da classe Empregado" />
     <MESSAGE value="mostra os ganhos anuais dos dois funcionários" />
-    <option name="LAST_COMMIT_MESSAGE" value="mostra os ganhos anuais dos dois funcionários" />
+    <MESSAGE value="aumenta em 10% os salários dos dois empregados" />
+    <option name="LAST_COMMIT_MESSAGE" value="aumenta em 10% os salários dos dois empregados" />
   </component>
 </project>

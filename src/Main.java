@@ -1,13 +1,9 @@
 public class Main {
 	public static void main(String[] args) {
-		Empregado empregado1 = new Empregado();
-		Empregado empregado2 = new Empregado();
-
-		empregado1.setNome("Alberto Silva");
-		empregado1.setSalarioMensal(2500.45);
-
-		empregado2.setNome("Bianca Sousa");
-		empregado2.setSalarioMensal(2745.01);
+		Empregado empregado1 = new Empregado("Alberto Silva",
+				2500.45);
+		Empregado empregado2 = new Empregado("Bianca Sousa",
+				2745.01);
 
 		System.out.printf("Nome do primeiro funcionário: %s%n",
 				empregado1.getNome());

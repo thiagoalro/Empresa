@@ -2,6 +2,11 @@ public class Empregado {
 	private String nome;
 	private double salarioMensal;
 
+	public Empregado(String nome, double salarioMensal){
+		this.nome = nome;
+		this.salarioMensal = salarioMensal;
+	}
+
 	public String getNome(){
 		return nome;
 	}
