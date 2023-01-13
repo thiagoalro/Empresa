@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e96d62ab-7b07-41ad-848e-1735a822fabf" name="Changes" comment="cria atributo ultimo nome em Empregado e atualiza os gets e sets">
+    <list default="true" id="e96d62ab-7b07-41ad-848e-1735a822fabf" name="Changes" comment="conserta main de acordo com as mudanças na classe Empregado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Empregado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673652322609</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="conserta main de acordo com as mudanças na classe Empregado">
+      <created>1673652538792</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673652538792</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +133,7 @@
     <MESSAGE value="cria construtor da classe Empregado inicializando seus atributos" />
     <MESSAGE value="valida salarioMensal no construtor e no setSalarioMensal" />
     <MESSAGE value="cria atributo ultimo nome em Empregado e atualiza os gets e sets" />
-    <option name="LAST_COMMIT_MESSAGE" value="cria atributo ultimo nome em Empregado e atualiza os gets e sets" />
+    <MESSAGE value="conserta main de acordo com as mudanças na classe Empregado" />
+    <option name="LAST_COMMIT_MESSAGE" value="conserta main de acordo com as mudanças na classe Empregado" />
   </component>
 </project>
