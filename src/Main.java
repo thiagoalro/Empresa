@@ -12,8 +12,8 @@ public class Main {
 		System.out.printf("Ganhos anuais do primeiro funcionário: " +
 				"%.2f%n", empregado1.getSalarioMensal() * 12);
 
-		System.out.printf("Nome do segundo funcionário: %s %s%n",
-				empregado2.getPrimeiroNome(), empregado2.getUltimoNome());
+		System.out.printf("Nome do segundo funcionário: %s%n",
+				empregado2.getNome());
 		System.out.printf("Salário do segundo funcionário: %.2f%n",
 				empregado2.getSalarioMensal());
 		System.out.printf("Ganhos anuais do segundo funcionário: " +
