@@ -15,11 +15,11 @@ public class Empregado {
 		}
 	}
 
-	public String getPrimeiroNomeNome(){
+	public String getPrimeiroNome(){
 		return primeiroNome;
 	}
 
-	public void setPrimeiroNomeNome(String novoNome){
+	public void setPrimeiroNome(String novoNome){
 		primeiroNome = novoNome;
 	}
 
