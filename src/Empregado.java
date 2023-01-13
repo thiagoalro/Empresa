@@ -1,12 +1,9 @@
 public class Empregado {
-	private String primeiroNome;
-	private String ultimoNome;
+	private String nome;
 	private double salarioMensal;
 
-	public Empregado(String primeiroNome, String ultimoNome,
-					 double salarioMensal){
-		this.primeiroNome = primeiroNome;
-		this.ultimoNome = ultimoNome;
+	public Empregado(String nome, double salarioMensal){
+		this.nome = nome;
 		if (salarioMensal > 0){
 			this.salarioMensal = salarioMensal;
 		}
@@ -15,20 +12,12 @@ public class Empregado {
 		}
 	}
 
-	public String getPrimeiroNome(){
-		return primeiroNome;
+	public String getNome(){
+		return nome;
 	}
 
-	public void setPrimeiroNome(String novoNome){
-		primeiroNome = novoNome;
-	}
-
-	public String getUltimoNome(){
-		return ultimoNome;
-	}
-
-	public void setUltimoNome(String ultimoNome){
-		this.ultimoNome = ultimoNome;
+	public void setNome(String novoNome){
+		nome = novoNome;
 	}
 
 	public double getSalarioMensal(){
