@@ -1,14 +1,12 @@
 public class Main {
 	public static void main(String[] args) {
 		Empregado empregado1 = new Empregado("Alberto",
-				"Silva",
-				2500.45);
+				 2500.45);
 		Empregado empregado2 = new Empregado("Bianca",
-				"Sousa",
 				2745.01);
 
-		System.out.printf("Nome do primeiro funcionário: %s %s%n",
-				empregado1.getPrimeiroNome(), empregado1.getUltimoNome());
+		System.out.printf("Nome do primeiro funcionário: %s%n",
+				empregado1.getNome());
 		System.out.printf("Salário do primeiro funcionário: %.2f%n",
 				empregado1.getSalarioMensal());
 		System.out.printf("Ganhos anuais do primeiro funcionário: " +
