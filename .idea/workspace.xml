@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e96d62ab-7b07-41ad-848e-1735a822fabf" name="Changes" comment="conserta main de acordo com as mudanças na classe Empregado">
+    <list default="true" id="e96d62ab-7b07-41ad-848e-1735a822fabf" name="Changes" comment="conserta chamada do nome do segundo empregado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +31,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -110,7 +109,35 @@
       <option name="project" value="LOCAL" />
       <updated>1673652538792</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="adiciona os ultimos nomes nos prints do main">
+      <created>1673652752719</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673652752719</updated>
+    </task>
+    <task id="LOCAL-00011" summary="revert to &quot;valida salarioMensal no construtor e no setSalarioMensal&quot;">
+      <created>1673653580476</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673653580476</updated>
+    </task>
+    <task id="LOCAL-00012" summary="conserta chamada do nome do primeiro empregado">
+      <created>1673654229136</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673654229136</updated>
+    </task>
+    <task id="LOCAL-00013" summary="conserta chamada do nome do segundo empregado">
+      <created>1673654336271</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673654336271</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +161,11 @@
     <MESSAGE value="valida salarioMensal no construtor e no setSalarioMensal" />
     <MESSAGE value="cria atributo ultimo nome em Empregado e atualiza os gets e sets" />
     <MESSAGE value="conserta main de acordo com as mudanças na classe Empregado" />
-    <option name="LAST_COMMIT_MESSAGE" value="conserta main de acordo com as mudanças na classe Empregado" />
+    <MESSAGE value="Revert &quot;valida salarioMensal no construtor e no setSalarioMensal&quot;&#10;&#10;This reverts commit 1db43a98" />
+    <MESSAGE value="adiciona os ultimos nomes nos prints do main" />
+    <MESSAGE value="revert to &quot;valida salarioMensal no construtor e no setSalarioMensal&quot;" />
+    <MESSAGE value="conserta chamada do nome do primeiro empregado" />
+    <MESSAGE value="conserta chamada do nome do segundo empregado" />
+    <option name="LAST_COMMIT_MESSAGE" value="conserta chamada do nome do segundo empregado" />
   </component>
 </project>
